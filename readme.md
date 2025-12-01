@@ -43,4 +43,4 @@ You can configure the following options:
 
 ## :pray: Contacts
 
-For questions, please send an email to alex.costanzino@unibo.it or pierluigi.zama@unibo.it.
+For questions, please send an email to zhaoyuan@mail.dlut.edu.cn.
