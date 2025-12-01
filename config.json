@@ -2,7 +2,7 @@
   "weight_decay": 1e-5,
   "dropout":0,
   "data_root":"/home/zhaoyuan/data",
-  "data_meta":"all_meta_mvtec3d2SN.json",
+  "data_meta":"all_meta.json",
   "data_loader_type":"pil",
   "data_loader_type_target":"pil_L"
 }
